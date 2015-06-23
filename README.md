@@ -1,7 +1,7 @@
 # Hablando Maquina
 Material guía en español para enseñar y aprender programación de computadores en diferentes categorías y niveles.
 
-Finalmente cuando aprendemos a programar lo que estamos aprendiendo es a comunicarnos con las máquinas, es sacar ideas de nuestra mente para plasmarlas en estos lenguajes, a través del uso de traductores para que finalmente lo que queremos decir y hacer esté al alcance de todos.
+Cuando aprendemos a programar lo que estamos aprendiendo es a comunicarnos con las máquinas, es sacar ideas de nuestra mente para plasmarlas en estos lenguajes, a través del uso de traductores para que, lo que queremos decir y hacer se materialice de forma accesible ya sea para nosotros - para una empresa - una comunidad o simplemente para que esté al alcance de todos.
 
 Aprender a hablar el lenguaje de las máquinas es un proceso como cualquier otro, aprender una nueva habilidad requiere de tiempo y práctica, de las herramientas y de las facilidades posibles para lograrlo.
 Metas sencillas y ejercicios conectantes que al mismo tiempo que enseñan, permitan tambien crear contenido para compartir el avance y consolidar el perfil que servirá finalmente para insertarse en la economía.
