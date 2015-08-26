@@ -1,5 +1,6 @@
 # Hablando Maquina
-##Alfabetización [alfabeto] ##Binarización [Binario]
+##Alfabetización [alfabeto] 
+##Binarización [Binario]
 Material guía en español para enseñar y aprender programación de computadores en niveles básicos y para personas de todos los contextos.
 
 Cuando aprendemos a programar lo que estamos aprendiendo es a comunicarnos con las máquinas, es sacar ideas de nuestra mente para plasmarlas en otros lenguajes, a través del uso de traductores, para que, lo que queremos decir y hacer se materialice de forma accesible ya sea para nosotros - para una empresa - una comunidad o simplemente para que esté al alcance de todos.
